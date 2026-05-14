@@ -9,12 +9,6 @@ __pycache__/
 venv/
 .venv/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# Trained models (too big for Git)
-models/
-
 # OS / editor junk
 .DS_Store
 .vscode/
