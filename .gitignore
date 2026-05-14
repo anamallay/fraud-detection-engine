@@ -1,0 +1,20 @@
+# Dataset — everyone downloads their own from Kaggle
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models (too big for Git)
+models/
+
+# OS / editor junk
+.DS_Store
+.vscode/
